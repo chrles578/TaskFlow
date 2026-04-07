@@ -13,9 +13,6 @@ Built from a simple idea—a to-do list that goes beyond just checking boxes—T
 🚀 Getting Started
 
 Follow these instructions to get a copy of TaskFlow running on your local machine.
-Prerequisites
-
-    [List any software needed, e.g., Node.js, Python, or just a modern web browser]
 
 Installation
 
@@ -41,8 +38,9 @@ TaskFlow was created based on the following prompt:
     "Create a todo list program that can change the background colours and allow us to create notes on the todo list."
 
 🤝 Contributing
+    
+    Contributions, issues, and feature requests are welcome!
 
-Contributions, issues, and feature requests are welcome!
 📝 License
-
-This project is MIT licensed.
+    
+    This project is MIT licensed.
