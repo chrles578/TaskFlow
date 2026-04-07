@@ -20,23 +20,8 @@ Prerequisites
 Installation
 
     Clone the repository:
-
-    Bash
-
+    
     git clone https://github.com/yourusername/TaskFlow.git
-
-    Navigate into the project directory:
-
-    Bash
-
-    cd TaskFlow
-
-    [Add installation steps specific to your code, e.g., npm install or pip install -r requirements.txt]
-    Run the application:
-
-    Bash
-
-    [Add run command, e.g., `npm start` or `python main.py`]
 
 🛠️ How to Use
 
@@ -47,8 +32,7 @@ Installation
 
 💻 Built With
 
-    [Language/Framework 1] - e.g., HTML/CSS/JavaScript
-    [Language/Framework 2] - e.g., TailwindCSS
+    HTML/CSS/JavaScript
 
 💡 Origin
 
